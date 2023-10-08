@@ -6,7 +6,7 @@ Client and Server folders should be opened seperately.
 
 Server
 -------
-1-Create a porject Server
+1-Create a project Server
 2-Make package name msg_app
 3-Copy msg_app folder in server to project folder
 4-Set Main location (msg_app.Main)
